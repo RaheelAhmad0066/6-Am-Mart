@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "435165442722",
+    "project_id": "ammart-eeb46",
+    "storage_bucket": "ammart-eeb46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435165442722:android:7e45899dc52e2a5fb0ddfb",
+        "android_client_info": {
+          "package_name": "com.sixamtech.sixam_mart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYPT4l8P0oEe0yqzpbFrvHfSiD5K2JevE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
